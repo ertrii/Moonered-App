@@ -2,4 +2,6 @@
     <string name="app_name">Moonered</string>
     <string name="title_main">Moonered</string>
     <string name="btn_login">Login</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
 </resources>
